@@ -7,7 +7,10 @@
 <table>
 <tr><td>
 
-### 👻 About me
+### 👻 About me (A boy likes quadratic)
+
+<img align="right" width="100" src="./assets/00236-1769824488_sq.jpeg" />
+
   - 💻 &nbsp; **Currently I am an algorithm engineer working at Li Auto Inc.**
   - 👏 &nbsp; **Learning AI technology, git focusing on `Python` and `Pytorch`.**
   - 🎗️ &nbsp; **Learn cutting-edge techniques, T2I(Text-to-Image), T2V(Text-to-Video), and multimodal large models.**
