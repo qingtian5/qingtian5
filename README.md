@@ -2,9 +2,9 @@
 
 # Hey, I am qingtian! ✨
 
-</div>
+<a href="https://github.com/qingtian5"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=233AF7&center=true&random=false&width=435&lines=Hey%2C+it's+me%F0%9F%91%8B;I+love+AI%F0%9F%94%AD" alt="Typing SVG" /></a>
 
-<a href="https://github.com/qingtian5"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=233AF7&random=false&width=435&lines=Hey%2C+it's+me%F0%9F%91%8B;I+love+AI%F0%9F%94%AD" alt="Typing SVG" /></a>
+</div>
 
 <!-- <table>
 <tr><td> -->
