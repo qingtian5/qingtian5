@@ -18,6 +18,12 @@
   - 🎗️ &nbsp; **Learn cutting-edge techniques, T2I(Text-to-Image), T2V(Text-to-Video), and multimodal large models.**
   - 🧩 &nbsp; **Enjoys applying artificial intelligence to different fields, such as gaming, medicine and more.**
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qingtian5&theme=github-light)](https://github.com/qingtian5)
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
 <!-- </td></tr> -->
 
 <!--
