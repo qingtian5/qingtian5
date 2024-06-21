@@ -21,7 +21,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qingtian5&theme=github-light)](https://github.com/qingtian5)
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-green.svg)
 
 
 <!-- </td></tr> -->
