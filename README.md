@@ -13,7 +13,7 @@
 
 <img align="right" width="100" src="./assets/00236-1769824488_sq.jpeg" />
 
-  - 💻 &nbsp; **Currently I am an algorithm engineer working at Li Auto Inc.**
+  - 💻 &nbsp; **Currently I am an algorithm engineer working at a company.**
   - 👏 &nbsp; **Learning AI technology, git focusing on `Python` and `Pytorch`.**
   - 🎗️ &nbsp; **Learn cutting-edge techniques, T2I(Text-to-Image), T2V(Text-to-Video), and multimodal large models.**
   - 🧩 &nbsp; **Enjoys applying artificial intelligence to different fields, such as gaming, medicine and more.**
